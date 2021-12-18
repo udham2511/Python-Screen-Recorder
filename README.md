@@ -1,7 +1,8 @@
 # Python Screen Recorder
 Make your own screen recorder using Python.
 ## Demo
-  
+https://user-images.githubusercontent.com/81560408/146628759-22831fc4-02de-4da9-9b40-9a08818e2388.mp4
+
 ## Features
 
 - Easy to make
