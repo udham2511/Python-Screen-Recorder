@@ -34,7 +34,7 @@ Open command prompt and enter following command.
 Clone the above Repository
 
 ```bash
-  git clone 
+  git clone https://github.com/udham2511/Python-Screen-Recorder.git
 ```
 
 ## 2. Installing Python Packages
